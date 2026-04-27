@@ -15,6 +15,8 @@
 | [grill-me](https://github.com/mattpocock/skills/blob/main/grill-me) | Интервьюер для стресс-тестирования планов и дизайн-решений — вопросы по каждой ветви дерева решений. |
 | [readme-generator](https://github.com/serejaris/ris-claude-code/tree/main/skills/readme-generator) | Генерация README.md: исследование best practices, анализ структуры проекта, human-focused документация. |
 | [marketingskills](https://github.com/coreyhaines31/marketingskills) | Набор из 35+ скиллов для маркетинга: CRO, копирайтинг, SEO, аналитика, growth engineering. |
+| [taste-skill](https://github.com/Leonxlnx/taste-skill) | High-Agency Frontend: прокачка вкуса агента, борьба с генерик-«slop» в UI, акцент на дизайн-эстетику. |
+| [caveman](https://github.com/JuliusBrussee/caveman) | Ультра-сжатый стиль ответов (`lite`/`full`/`ultra`), режет ~65% output-токенов без потери технической сути. Включает `caveman-commit` и `caveman-review`. |
 
 ## MCP-серверы
 
