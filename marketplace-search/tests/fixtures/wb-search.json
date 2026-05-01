@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "id": 124063338,
+      "name": "Телевизор Samsung 55 4K Smart TV",
+      "brand": "Samsung",
+      "rating": 5,
+      "reviewRating": 4.8,
+      "feedbacks": 282,
+      "nmFeedbacks": 282,
+      "totalQuantity": 12,
+      "supplier": "Samsung Store",
+      "supplierRating": 4.7,
+      "sizes": [
+        {
+          "name": "",
+          "origName": "0",
+          "price": {
+            "basic": 8990000,
+            "product": 4990000,
+            "logistics": 0,
+            "return": 0
+          },
+          "rank": 0
+        }
+      ]
+    },
+    {
+      "id": 195501234,
+      "name": "Телевизор LG 55 OLED Smart",
+      "brand": "LG",
+      "reviewRating": 4.7,
+      "nmFeedbacks": 145,
+      "totalQuantity": 5,
+      "sizes": [
+        {
+          "price": {
+            "basic": 7500000,
+            "product": 6750000
+          }
+        }
+      ]
+    },
+    {
+      "id": 88001122,
+      "name": "Телевизор Sony Bravia 55",
+      "brand": "Sony",
+      "reviewRating": 4.6,
+      "nmFeedbacks": 89,
+      "totalQuantity": 3,
+      "sizes": [
+        {
+          "price": {
+            "basic": 6500000,
+            "product": 6500000
+          }
+        }
+      ]
+    },
+    {
+      "id": 220033445,
+      "name": "Телевизор Xiaomi Mi TV 55",
+      "brand": "Xiaomi",
+      "reviewRating": 4.5,
+      "nmFeedbacks": 412,
+      "totalQuantity": 8,
+      "sizes": [
+        {
+          "price": {
+            "basic": 4500000,
+            "product": 3299000
+          }
+        }
+      ]
+    },
+    {
+      "id": 310044556,
+      "name": "Телевизор TCL 55 QLED",
+      "brand": "TCL",
+      "reviewRating": 4.4,
+      "nmFeedbacks": 67,
+      "totalQuantity": 0,
+      "sizes": [
+        {
+          "price": {
+            "basic": 3990000,
+            "product": 3490000
+          }
+        }
+      ]
+    },
+    {
+      "id": 410055667,
+      "name": "Телевизор Hisense 55",
+      "brand": "Hisense",
+      "reviewRating": 4.3,
+      "nmFeedbacks": 198,
+      "totalQuantity": 15,
+      "sizes": [
+        {
+          "price": {
+            "basic": 3200000,
+            "product": 2890000
+          }
+        }
+      ]
+    }
+  ],
+  "filters": "xsubject;dlvr;brand;price"
+}
