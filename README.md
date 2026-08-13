@@ -1,3 +1,5 @@
+**English** u{00B7} [u{0420}u{0443}u{0441}u{0441}u{043A}u{0438}u{0439}](./README.ru.md)
+
 # Claude Code Tools
 
 A curated collection of skills, plugins and MCP servers for [Claude Code](https://code.claude.com/docs).
