@@ -31,6 +31,7 @@ Most entries link out to their upstream authors; `web-search-router` is built he
 | [`chrome-devtools`](https://claude.com/plugins/chrome-devtools-mcp) | Browser control: screenshots, clicks, navigation, DevTools, Lighthouse audits, performance traces |
 | [`context7`](https://claude.com/plugins/context7) | Up-to-date library and framework documentation delivered straight into the LLM context |
 | [`exa`](https://exa.ai/docs/reference/exa-mcp#claude-code) | Semantic web search and content extraction |
+| [`firecrawl`](https://docs.firecrawl.dev/quickstarts/claude-code?utm_source=claude-tools&utm_medium=integration#optional-set-up-claude-code) | Web search, scraping and browser interaction: Markdown or structured JSON, crawl, map |
 | [`serper`](https://github.com/marcopesani/mcp-server-serper?tab=readme-ov-file#installing-via-smithery) | Google Search API — web search and page scraping |
 | [`tavily`](https://docs.tavily.com/documentation/mcp#connect-to-claude-code) | Research-oriented search: crawl, extract, map, research |
 | [`figma`](https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/#claude-code) | Figma integration for working with design files |

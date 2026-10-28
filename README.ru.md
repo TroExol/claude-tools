@@ -31,6 +31,7 @@
 | [`chrome-devtools`](https://claude.com/plugins/chrome-devtools-mcp) | Управление браузером: скриншоты, клики, навигация, DevTools, Lighthouse аудит, трассировка производительности |
 | [`context7`](https://claude.com/plugins/context7) | Актуальная документация библиотек и фреймворков прямо в контексте LLM |
 | [`exa`](https://exa.ai/docs/reference/exa-mcp#claude-code) | Семантический веб-поиск и извлечение контента |
+| [`firecrawl`](https://docs.firecrawl.dev/quickstarts/claude-code?utm_source=claude-tools&utm_medium=integration#optional-set-up-claude-code) | Веб-поиск, скрейпинг и действия в браузере: Markdown или структурированный JSON, crawl, map |
 | [`serper`](https://github.com/marcopesani/mcp-server-serper?tab=readme-ov-file#installing-via-smithery) | Google Search API — веб-поиск и скрейпинг страниц |
 | [`tavily`](https://docs.tavily.com/documentation/mcp#connect-to-claude-code) | Исследовательский поиск: crawl, extract, map, research |
 | [`figma`](https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/#claude-code) | Интеграция с Figma для работы с дизайн-макетами |
